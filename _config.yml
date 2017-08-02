@@ -1,3 +1,6 @@
-name: Hank Quinlan, Horrible Cop
+name: Paul Hyland, Digital Technologist
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+theme: jekyll-theme-slate
+title: Paul's Web Space 3.0 
+description: Now hosted on GitHub Pages

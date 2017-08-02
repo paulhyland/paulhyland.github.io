@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+nav ul, footer ul {
+    font-size: 1.3em;
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+#header_wrap .inner {
+  padding: 30px 10px 30px 10px;
+}
