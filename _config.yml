@@ -4,3 +4,5 @@ permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-slate
 title: Paul's Web Space 3.0 
 description: Now hosted on GitHub Pages
+gems:
+- jekyll-email-protect
